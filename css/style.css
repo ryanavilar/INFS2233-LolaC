@@ -4,6 +4,7 @@ body{
 
 .item>img{
 	width: 100% !important;
+	height:100% !important;
 }
 
 .footer{
@@ -12,7 +13,7 @@ body{
 }
 
 .littledown{
-	top: +20px;	
+	padding-top: 10px;	
 }
 
 .navbar-inverse .navbar-brand {
